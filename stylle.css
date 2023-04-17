@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+#heading{
+    background-color: #f7f7f7;
+    height: 80px;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: antiquewhite;
+}
+
+#para{
+    background-color: whitesmoke;
+    height: 250px;
+    padding-top: 10px;
+    border-radius: 30px;
+    padding: 10px 10px;
+    width: 95%;
+    font-size:20px;
+    color: blue;
+    font-weight: bold;
+    border: solid lightpink;
+}
